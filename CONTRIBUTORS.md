@@ -1237,3 +1237,8 @@ Place: Allahabad, India
 About: Computer Science Student with a youtube channel : Gamma Guy
 Programming Language: HTML, CSS, JS, Java
 Email: prasoonpandey24@yahoo.com
+
+Name: [Pelin Uyar](https://github.com/p2uyar)
+Place: izmir,Turkey
+About: Computer Engineer
+Programming Language: C,C#,Java,Html,CSS
